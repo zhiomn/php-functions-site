@@ -1,5 +1,3 @@
-Com certeza. Descrever nosso sistema como um "framework" é a melhor maneira de entender sua filosofia e valor.
-
 ### **O Framework "Ekkentros": Uma Visão Geral**
 
 O sistema que construímos pode ser descrito como um **framework PHP híbrido, ultra-leve e de arquitetura atômica, com renderização no servidor (SSR) e aprimoramento progressivo no cliente (Progressive Enhancement)**. Ele foi projetado para máxima performance, simplicidade de manutenção e total controle sobre o código.
